@@ -1,0 +1,5 @@
+# job_queue extension
+comment = 'Simple async queue mechanism'
+default_version = '1.0'
+module_pathname = '$libdir/job_queue'
+relocatable = true
